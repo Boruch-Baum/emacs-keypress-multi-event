@@ -1,6 +1,6 @@
 * keypress-multi-event
 
-| =keypress-multi-event=       | [[http://melpa.org/#/flyspell-correct][file:http://melpa.org/packages/keypress-multi-event-badge.svg]]       | [[https://stable.melpa.org/#/flyspell-correct][file:https://stable.melpa.org/packages/keypress-multi-event-badge.svg]]
+| =keypress-multi-event=       | [[https://melpa.org/#/keypress-multi-event][file:https://melpa.org/packages/keypress-multi-event-badge.svg]]       | [[https://stable.melpa.org/#/keypress-multi-event][file:https://stable.melpa.org/packages/keypress-multi-event-badge.svg]]
 
 This package for emacs provides a method to define multiple functions
 to be performed for the same keypress. You can use this as a
